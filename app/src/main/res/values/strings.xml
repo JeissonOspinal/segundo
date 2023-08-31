@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">primero lab</string>
+    <string name="Saludo">Escriba un mensaje</string>
+    <string name="enviar"> Enviar mensaje</string></resources>
